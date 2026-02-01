@@ -130,7 +130,8 @@ SIGLAS_DESC = {
     "SPAG-PIXX": "Sistema de Pagamentos - PIX",
     "SPAG-SPIB": "Sistema de Pagamentos - SPIB",
     "SPBB-BASE": "SPB Bradesco - Base",
-    "SPBB-ISPB": "SPB Bradesco - ISPB"
+    "SPBB-ISPB": "SPB Bradesco - ISPB",
+    "PROJETOS_VISUAL_BASIC": "Projetos Visual Basic"
 }
 
 
